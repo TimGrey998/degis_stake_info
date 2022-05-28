@@ -1,0 +1,1 @@
+## degis_stake_info
